@@ -72,6 +72,7 @@ $$/   $$/  $$$$$$$/ $$/        $$$$$$/  $$/   $$/
                                                   
                                                   
                                                   
+                                                  
 
 {A}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {G1}[{A}≈{G1}]{G1} DEVELOPER {A}➢{G1} Heron Chowdhury
@@ -93,7 +94,7 @@ def menu():
     elif sex in ['2']:
         XXX()
     elif sex in ['3']:
-        os.system('xdg-open https://www.facebook.com/sk.sahathat');menu()
+        os.system('xdg-open https://www.facebook.com/Girgiti.chele.ta999');menu()
     elif sex in ['0']:
         sys.exit()
     else:
@@ -215,7 +216,7 @@ def randm(ids,psd):
     global loop,ok
     nip=random.choice(prox)
     proxs= {'http': 'socks4://'+nip}
-    sys.stdout.write(f'\r\r{A}[{G1}SWAG-XD{A}]-[{G1}{loop}{A}]-[{G1}OK{A}:{G1}{len(ok)}{A}] ')
+    sys.stdout.write(f'\r\r{A}[{G1}HERON🐒{A}]-[{G1}{loop}{A}]-[{G1}OK{A}:{G1}{len(ok)}{A}] ')
     sys.stdout.flush()
     try:
         for pas in psd:
@@ -278,7 +279,7 @@ def M1(ids,names,psd):
     global loop,ok
     nip=random.choice(prox)
     proxs= {'http': 'socks4://'+nip}
-    sys.stdout.write(f'\r\r{A}[{G1}SWAG-XD{A}]-[{G1}{loop}{A}]-[{G1}OK{A}:{G1}{len(ok)}{A}] ')
+    sys.stdout.write(f'\r\r{A}[{G1}HERON🐒{A}]-[{G1}{loop}{A}]-[{G1}OK{A}:{G1}{len(ok)}{A}] ')
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
