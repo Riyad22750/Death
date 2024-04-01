@@ -78,7 +78,7 @@ $$/   $$/  $$$$$$$/ $$/        $$$$$$/  $$/   $$/
 {G1}[{A}≈{G1}]{G1} DEVELOPER {A}➢{G1} Heron Chowdhury
 {G1}[{A}≈{G1}]{G1} TOOLTYPE  {A}➢{G1} FILE {A}&{G1} RANDOM CLONE
 {G1}[{A}≈{G1}]{G1} VERSION   {A}➢{A} V{G1}/{A}1.2
-{G1}[{A}≈{G1}]{G1} STATUS    {A}➢{A} SCRIPT SELL
+{G1}[{A}≈{G1}]{G1} STATUS    {A}➢{A} HERON BABA
 {A}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 #__________________MAIN____________#
 def menu():
